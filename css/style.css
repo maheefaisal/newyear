@@ -3,7 +3,7 @@
 }
 /* Styling Header  */
 .header {
-  background-image: url(/images/banner/banner3.png);
+  background-image: url("../images/banner/banner3.png");
   background-repeat: no-repeat;
   background-size: cover;
   padding: 175px 175px;
@@ -68,7 +68,7 @@
 }
 .my-failures-banner ol li {
   list-style: none;
-  list-style-image: url("/images/tikicon.png");
+  list-style-image: url("../images/tikicon.png");
   font-family: Work Sans;
   font-size: 16px;
   font-weight: 400;
@@ -139,7 +139,7 @@
 }
 .mindset-action-seciton {
   background: linear-gradient(90deg, #005fac 0%, rgba(0, 95, 172, 0) 100%),
-    url("/images/watch.png");
+    url("../images/watch.png");
 
   background-size: cover;
   color: white;
